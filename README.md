@@ -24,35 +24,35 @@ It should be very easy to clone the repo and run the app in your machine. The co
 
 ## 2. Create a new project on Firebase
 
-<img src='docs/images/virusmapbr-1-firebase-project.png' width='100%'>
+<img src='docs/images/virusmapbr-1-firebase-project.png' width='75%'>
 
 ## 3. Setup Firebase for Android
 
-<img src='docs/images/virusmapbr-2-adding-firebase.png' width='100%'>
+<img src='docs/images/virusmapbr-2-adding-firebase.png' width='75%'>
 
-<img src='docs/images/virusmapbr-3-firebase-android.png' width='100%'>
+<img src='docs/images/virusmapbr-3-firebase-android.png' width='75%'>
 
 Copy the generated `google-services.json` to the folder `/android/app/src/debug/` in the project tree.
 
 Run the app in the Android Emulator and wait for a confirmation that everything is fine from Firebase.
 
-<img src='docs/images/virusmapbr-4-android-ok.png' width='100%'>
+<img src='docs/images/virusmapbr-4-android-ok.png' width='75%'>
 
 ## 4. Setup Firebase for iOS
 
-<img src='docs/images/virusmapbr-5-firebase-ios.png' width='100%'>
+<img src='docs/images/virusmapbr-5-firebase-ios.png' width='75%'>
 
 Copy the generated `GoogleService-Info.plist` to the folders `/ios/debug/` and `/ios/release/` in the project tree.
 
 Run the app in the iOS Simulator and wait for a confirmation that everything is fine from Firebase.
 
-<img src='docs/images/virusmapbr-6-ios-ok.png' width='100%'>
+<img src='docs/images/virusmapbr-6-ios-ok.png' width='75%'>
 
 ## 5. Setup Firebase Authentication
 
 We use two sign-in methods: Google and Phone. You'll have to activate both.
 
-<img src='docs/images/virusmapbr-7-auth-ok.png' width='100%'>
+<img src='docs/images/virusmapbr-7-auth-ok.png' width='75%'>
 
 ## 6. Setup Cloud Firestore
 
@@ -60,7 +60,7 @@ We use the Firebase Cloud Firestore to store the app data. You'll have to enable
 
 Create a collection called `stats` and a document with the id `dashboard` with the following fields: 
 
-<img src='docs/images/virusmapbr-8-firestore.png' width='100%'>
+<img src='docs/images/virusmapbr-8-firestore.png' width='75%'>
 
 ## 7. Setup Firebase Storage
 
