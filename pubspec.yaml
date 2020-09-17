@@ -1,0 +1,81 @@
+name: virusmapbr
+description: VirusMapBr - Combatendo o Coronavírus com informações e tecnologia.
+version: 1.1.3+4
+
+environment:
+  sdk: ">=2.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter  
+  firebase_analytics: ^6.0.0
+  firebase_crashlytics: ^0.1.4+1
+  cloud_firestore: ^0.14.0+2
+  firebase_auth: ^0.18.0+1
+  google_sign_in: ^4.5.3
+  cupertino_icons: ^1.0.0
+  shared_preferences: ^0.5.10
+  google_maps_flutter: ^0.5.31
+  geolocator: ^6.0.0+3
+  geoflutterfire: ^2.2.1
+  ansicolor: ^1.0.2
+  crypto: ^2.1.5
+  intl: ^0.16.1
+  outline_material_icons: ^0.1.1
+  provider: ^4.3.2+2
+  flutter_statusbarcolor: ^0.2.3
+  cached_network_image: ^2.3.1
+  jiffy: ^3.0.1
+  device_id: ^0.2.0
+  share: ^0.6.5
+  flushbar: ^1.10.4
+  flutter_launcher_icons: ^0.7.5
+  image_picker: ^0.6.7+7
+  firebase_storage: ^4.0.0
+  crop: ^0.4.1
+  uuid: ^2.2.2
+  location_permissions: ^3.0.0+1
+  grouped_list: ^3.4.0
+  flutter_markdown: ^0.4.4
+  url_launcher: ^5.5.2
+  package_info: ^0.4.3
+  flutter_wordpress: ^0.2.1
+  flutter_html: ^1.0.2
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/virusmapbr-icon-square.png"
+  adaptive_icon_foreground: "assets/virusmapbr-icon-foreground-only.png"
+  adaptive_icon_background: "assets/virusmapbr-icon-background-only.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: Roboto Regular
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: fonts/Roboto-Bold.ttf
+          weight: 700
+    - family: Muli
+      fonts:
+        - asset: fonts/Muli-Regular.ttf
+          weight: 400
+        - asset: fonts/Muli-SemiBold.ttf
+          weight: 500
+        - asset: fonts/Muli-Bold.ttf
+          weight: 700
+    - family:  VirusMapBRIcons
+      fonts:
+        - asset: fonts/VirusMapBRIcons.ttf

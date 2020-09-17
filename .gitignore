@@ -1,0 +1,49 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/ios/build/
+
+# Android related
+*.keystore
+**/google-services.json
+
+# iOS related
+**/GoogleService-Info.plist
+
+# Exceptions to above rules.
+# !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+# ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+# ios/Podfile.lock
+# pubspec.lock
+# android/key.properties
+scrap.md
+/docs/work
