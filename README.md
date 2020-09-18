@@ -1,3 +1,5 @@
+<img src='docs/images/virusmapbr-head-dark.png'>
+
 # VirusMapBR
 
 An open-source COVID-19 tracking app built with Flutter and Firebase
@@ -84,7 +86,7 @@ If everything is fine, you'll be able to run the app again and use it on your de
 
 I hope you enjoy the ride, learn new stuff and use it to build new things and help others!
 
-# Thanks and acknowledgemnts
+# Thanks and acknowledgments
 
 During this journey I had the support of many friends. From changing my mind towards the final design of the app, to solving technical challenges, designing the look and feel of the app, refining the user experience, trying to workaround the app store's constraints, writing the terms-of-use and the privacy policy, reviewing the app and supporting the idea. It was such an honor to have the support of these incredible people and I'm forever thankfull.
 
