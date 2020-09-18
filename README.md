@@ -26,9 +26,11 @@ It should be very easy to clone the repo and run the app in your machine. The co
 
 <img src='docs/images/virusmapbr-1-firebase-project.png' width='75%'>
 
-## 3. Setup Firebase for Android
+Once the project is created, you'll need to add the Android and iOS apps to your project:
 
 <img src='docs/images/virusmapbr-2-adding-firebase.png' width='75%'>
+
+## 3. Setup Firebase for Android
 
 <img src='docs/images/virusmapbr-3-firebase-android.png' width='75%'>
 
@@ -81,3 +83,18 @@ To do so, you'll have to change the code in the files `help_entries_list.dart`, 
 If everything is fine, you'll be able to run the app again and use it on your development devices or emulators.
 
 I hope you enjoy the ride, learn new stuff and use it to build new things and help others!
+
+# Thanks and acknowledgemnts
+
+During this journey I had the support of many friends. From changing my mind towards the final design of the app, to solving technical challenges, designing the look and feel of the app, refining the user experience, trying to workaround the app store's constraints, writing the terms-of-use and the privacy policy, reviewing the app and supporting the idea. It was such an honor to have the support of these incredible people and I'm forever thankfull.
+
+* André Barrence - [@andrevsb](https://twitter.com/andrevsb)
+* André Salem - [@andresalem](https://www.linkedin.com/in/andresalem)
+* Celina Bottino - [@cbotinno](https://cyber.harvard.edu/people/celina-bottino)
+* Georges Bennati - [@gbenatti](https://github.com/gbenatti)
+* Josias Cunha - [@josiasnc](https://dribbble.com/josiasnc)
+* Luciano Tavares - [@lucianot](https://twitter.com/lucianot)
+* Ronaldo Lemos - [@lemos_ronaldo](https://twitter.com/lemos_ronaldo)
+
+Thanks, you rock!
+
