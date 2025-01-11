@@ -9,7 +9,7 @@ The **VirusMapBR** was created in the begining of COVID-19 pandemic as a way to 
 ## About the Author
 Hi! My name is [**Manoel Lemos**](https://manoellemos.com/) and I'm a computer engineer from Brazil. I used to be an entrepreneur and today I'm a parter at [**Redpoint eventures**](http://rpev.com.br), a VC fund focused in early-stage startups in the Brazilian and LatAm ecosystems. I'm passionate about technology and its potential to positively impact society. I love to build things and I'm always learning new stuff, writing some code and soldering some components.
 
-This project was my introduction to Dart, Flutter and Firebase and it started in a very different way. You can read more about the [origins and motivations of the project](https://manoellemos.com/um-app-para-combater-a-pandemia-do-coronav%C3%ADrus-9f3d6fa34eb8), and [the learnings with the **VirusMapBR** development journey]() in my blog. 
+This project was my introduction to Dart, Flutter and Firebase and it started in a very different way. You can read more about the [origins and motivations of the project](https://blog.manoellemos.com/p/um-app-para-combater-a-pandemia-do-coronavirus-9f3d6fa34eb8), and [the learnings with the **VirusMapBR** development journey](https://blog.manoellemos.com/p/virusmapbr-o-app-para-rastrear-o-covid-19-que-nao-foi-eb959e3cb52b) in my blog. 
 
 # Requirements
 
